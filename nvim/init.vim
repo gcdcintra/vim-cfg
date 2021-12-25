@@ -13,7 +13,7 @@ set number                 " show line numbers
 set cc=80                  " set an 80 columm delimiter indicator
 
 set clipboard=unnamedplus  " use system clipboard
-set mouse=v  	             " mouse click paste with
+set mouse=v                " mouse click paste with
 set mouse=a                " enable mouse click
 set cursorline             " highlight current cursor line
 set ttyfast                " increase scrolling speed
