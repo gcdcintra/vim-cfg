@@ -24,6 +24,3 @@ sudo apt-get install -y nodejs
 Just add `init.vim` to `~/.config/nvim/init.vim`
 
 ---
-
-> A special thanks to `Rio Nyx`, since I took most of this from his post config. 
-Available at https://medium.com/geekculture/neovim-configuration-for-beginners-b2116dbbde84

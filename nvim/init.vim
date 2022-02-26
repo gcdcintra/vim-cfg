@@ -1,9 +1,9 @@
 " indent configs for 2 spaces
-set tabstop=2
-set softtabstop=2 
-set shiftwidth=2
+set tabstop=8
+set softtabstop=8
+set shiftwidth=8
 set autoindent
-set expandtab
+set noexpandtab
 set wildmode=longest,list
 
 filetype plugin on
