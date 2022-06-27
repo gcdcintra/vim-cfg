@@ -1,9 +1,8 @@
 " indent configs for 2 spaces
-set tabstop=8
-set softtabstop=8
-set shiftwidth=8
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
 set autoindent
-set noexpandtab
 set wildmode=longest,list
 
 filetype plugin on
@@ -72,3 +71,4 @@ nnoremap <A-h> <C-w>h
 nnoremap <A-j> <C-w>j
 nnoremap <A-k> <C-w>k
 nnoremap <A-l> <C-w>l
+
